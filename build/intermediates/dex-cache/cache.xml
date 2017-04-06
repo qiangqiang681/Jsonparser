@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\app\Barbershop\Jsonparser\app\libs\fastjson-1.2.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fdc1119133110c437ae1919cefb202ed250ccd37">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.2.5_cecc7a54c5f2ae9bb01fe60a4715f2104c6bc797\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\Barbershop\Jsonparser\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_b0a6e30e5cd5324dc53641391253d0e4e41816a5\classes.dex" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_367486334497ca5efbbf3708b676df1c95b517b9\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\Barbershop\Jsonparser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bb8b634b2e12bd84b3ce838de4b5e6f3bc7c19a1">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a13aa0fb5171be00a467da1d24f51c11245bd42f\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\Barbershop\Jsonparser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="986ce26c6ad4d2a81d85e27c0b6b62701cb89cbe">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_df81486b8b9bcc8c415fe840e76b6ab6aa0f6afa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\Barbershop\Jsonparser\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_1d17eee900528a4f78b007e4a3aa6a90439e840d\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\Barbershop\Jsonparser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_7dd6ad3e6e92b2b1bf2dbf5e1bb86dde0eb2bb50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_01cc990dcf2d17d688f9fc2e7c93ea22339e41ab\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\Barbershop\Jsonparser\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a09c83eeeda185c923467fb9906daaf3b1474099\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\Barbershop\Jsonparser\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\app\Barbershop\Jsonparser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_78cf7d130084ad275f992224b91e46ff72901ffc\classes.dex" />
+    </item>
+
+</items>
